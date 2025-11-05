@@ -4,16 +4,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=PRABJYOT%20SINGH&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=FFFFFF&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast&descSize=18&descAlignY=55&descColor=FFFFFF"/>
 
 <!-- Dynamic Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Software+Engineering+Student;Building+with+React+%26+Node.js;Exploring+AI%2FML+%F0%9F%A4%96;Always+Learning+%F0%9F%9A%80" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&width=480&lines=Welcome+to+my+GitHub!;Software+Engineering+Student;Building+with+React+and+Node.js;Exploring+AI+and+ML;Always+Learning" alt="Typing Animation" />
 
 </div>
 
 <br>
 
-##  About Me
+## 👨‍💻 About Me
 ```javascript
 const prabjyot = {
-    location: "India 🇮🇳",
+    location: "India",
     education: "B.Tech in Software Engineering",
     role: "Full Stack Developer | AI/ML Enthusiast",
     expertise: ["Web Development", "Machine Learning", "Data Structures & Algorithms"],
@@ -69,10 +69,9 @@ const prabjyot = {
 <br>
 
 <div align="center">
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=prabjyotsingh&theme=radical&hide_border=true&background=0D1117&ring=79C0FF&fire=FF6B6B&currStreakLabel=79C0FF&border_radius=8" alt="GitHub Streak"/>
-
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=prabjyotsingh&theme=radical&hide_border=true&background=0D1117&ring=79C0FF&fire=FF6B6B&currStreakLabel=79C0FF&border_radius=8" alt="GitHub Streak"/>
 </div>
+
 
 <br>
 
@@ -88,7 +87,7 @@ const prabjyot = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=prabjyotsingh&label=Profile%20Views&color=79C0FF&style=for-the-badge&labelColor=161B22)
+<img src="https://komarev.com/ghpvc/?username=prabjyotsingh&label=Profile%20Views&color=79C0FF&style=for-the-badge&labelColor=161B22" alt="Profile Views"/>
 
 </div>
 
@@ -99,7 +98,7 @@ const prabjyot = {
 
 <div align="center">
   
-### ⭐ *Building. Breaking. Learning. Repeating* ⭐
+### ⭐ Building. Breaking. Learning. Repeating ⭐
 
 **[prabjyotsingh](https://github.com/prabjyotsingh)** • Open to collaborations and opportunities
 
