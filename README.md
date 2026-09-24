@@ -31,10 +31,10 @@ const prabjyot = {
 <div align="center">
 
 ### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,sql,typescript&theme=dark&perline=6"/>
 
 ### Web Technologies
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,mongodb,express&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,nestjs,mongodb,express&theme=dark&perline=6"/>
 
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,tensorflow,docker,linux&theme=dark&perline=6"/>
