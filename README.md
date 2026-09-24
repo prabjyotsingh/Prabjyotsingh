@@ -38,7 +38,8 @@ const prabjyot = {
 
 ###  AI & Data
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,MachineLearning, DeepLearning,GenerativeAI,NLP,n8n&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,n8n&theme=dark&perline=6"/>
+`Machine Learning` `Deep Learning` `Generative AI` `NLP` `AI Agents` `RAG`
 
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,tensorflow,docker,linux&theme=dark&perline=6"/>
