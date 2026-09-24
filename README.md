@@ -34,7 +34,7 @@ const prabjyot = {
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,mysql,typescript&theme=dark&perline=6"/>
 
 ### Web Technologies
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,nestjs,mongodb,express,nextjs&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,nestjs,mongodb,express,nextjs,django,fastapi&theme=dark&perline=6"/>
 
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,tensorflow,docker,linux&theme=dark&perline=6"/>
