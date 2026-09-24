@@ -36,9 +36,10 @@ const prabjyot = {
 ### Web Technologies
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,nestjs,mongodb,express,nextjs,django,fastapi&theme=dark&perline=6"/>
 
-###  AI & Data
+### AI & Data
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,n8n&theme=dark&perline=6"/>
+
 `Machine Learning` `Deep Learning` `Generative AI` `NLP` `AI Agents` `RAG`
 
 ### Tools & Platforms
