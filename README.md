@@ -14,7 +14,7 @@
 ```javascript
 const prabjyot = {
     location: "India",
-    education: "B.E0 in Computer Science and Engineering",
+    education: "B.E in Computer Science and Engineering",
     role: "Full Stack Developer | AI/ML | Data Engineering",
     expertise: ["Web Development", "Machine Learning", "Data Structures & Algorithms"],
     currentlyWorking: "Building scalable full-stack applications",
