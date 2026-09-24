@@ -31,8 +31,7 @@ const prabjyot = {
 <div align="center">
 
 ### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,SQL,typescript&theme=dark&perline=6"/>
-
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,mysql,typescript&theme=dark&perline=6"/>
 
 ### Web Technologies
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,nestjs,mongodb,express&theme=dark&perline=6"/>
